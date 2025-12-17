@@ -1,3 +1,5 @@
+package Chapter3;
+
 public class FristExample {
     /*This is a simple Java program*/
     public static void main(String[] args){
