@@ -12,10 +12,10 @@ public class Box{
         depth = 10;
     }
 
-    Box(double h, double w, double d){
-        width = w;
-        height = h;
-        depth = d;
+    Box(double height, double width, double depth){
+        this.width = width;
+        this.height = height;
+        this.depth = depth;
     }
 
     void volume(){
